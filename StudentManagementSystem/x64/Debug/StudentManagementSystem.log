@@ -1,0 +1,193 @@
+﻿  BasicSource.cpp
+  ClassAndStudent.cpp
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(145,104): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(319,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(300,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(409,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(390,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(735,27): warning C4101:  'cur': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(780,107): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(846,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(827,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(1184,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(1198,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(1178,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(1253,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(1267,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(1248,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(1321,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(1335,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(1316,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(1389,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(1403,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(1384,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(1457,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(1471,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(1452,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(1525,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(1539,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(1520,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(1725,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(1739,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(1718,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(1795,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(1809,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(1789,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(1864,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(1878,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(1858,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(1932,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(1946,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(1927,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(2000,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(2014,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(1995,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(2068,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(2082,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+  ClassOption.cpp
+  Courses.cpp
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\ClassAndStudent.cpp(2063,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(102,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(83,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(202,107): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(338,32): warning C4101:  'cur': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(870,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(884,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(865,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(937,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(951,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(932,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1004,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1018,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(999,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1071,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1085,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1066,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1139,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1153,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1134,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1207,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1221,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1202,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1275,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1289,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1270,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1343,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1357,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1338,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1411,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1425,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1406,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1479,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1493,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1474,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1547,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1561,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1542,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1615,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1629,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1610,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1683,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1697,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1678,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1751,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1765,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1746,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1819,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1833,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1814,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1887,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1901,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1882,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1955,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1969,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(1950,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(2295,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(2309,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(2290,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(2362,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(2376,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(2357,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(2429,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(2443,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(2424,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(2496,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(2510,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(2491,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(2564,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(2578,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(2559,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(2632,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(2646,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(2627,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(2700,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(2714,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(2695,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(2768,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(2782,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(2763,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(2836,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(2850,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(2831,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(2904,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(2918,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(2899,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(2972,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(2986,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(2967,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(3040,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(3054,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(3035,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(3108,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(3122,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(3103,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(3176,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(3190,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(3171,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(3244,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(3258,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(3239,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(3312,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(3326,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(3307,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(3380,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(3394,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+  InfoSaveAndLoad.cpp
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Courses.cpp(3375,7): warning C4101:  'key': unreferenced local variable
+  Main.cpp
+  Schedule.cpp
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\InfoSaveAndLoad.cpp(509,21): warning C4553:  '==': result of expression not used; did you intend '='?
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Schedule.cpp(101,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Schedule.cpp(82,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Schedule.cpp(201,107): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Schedule.cpp(337,34): warning C4101:  'cur': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Schedule.cpp(934,2): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Schedule.cpp(949,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Schedule.cpp(929,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Schedule.cpp(1266,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+  Source.cpp
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Schedule.cpp(1247,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Source.cpp(213,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Source.cpp(242,3): warning C4551:  function call missing argument list
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Source.cpp(194,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Source.cpp(266,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Source.cpp(296,3): warning C4551:  function call missing argument list
+  SourceProfile.cpp
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\Source.cpp(247,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\SourceProfile.cpp(215,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\SourceProfile.cpp(197,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\SourceProfile.cpp(269,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\SourceProfile.cpp(250,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\SourceProfile.cpp(321,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\SourceProfile.cpp(351,3): warning C4551:  function call missing argument list
+  SrudentSearchEngine.cpp
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\SourceProfile.cpp(303,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\SrudentSearchEngine.cpp(135,86): warning C4805:  '==': unsafe mix of type 'BOOL' and type 'bool' in operation
+  UserUI.cpp
+  Generating Code...
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\SrudentSearchEngine.cpp(116,7): warning C4101:  'key': unreferenced local variable
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\SrudentSearchEngine.cpp(116,7): warning C4101: D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\InfoSaveAndLoad.cpp(84) : warning C4715: 'CheckUserNameAndPassWord': not all control paths return a value
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\SrudentSearchEngine.cpp(116,7): warning C4101: D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\InfoSaveAndLoad.cpp(116) : warning C4715: 'GetInfoFromStudentID': not all control paths return a value
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\SrudentSearchEngine.cpp(116,7): warning C4101: D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\InfoSaveAndLoad.cpp(126) : warning C4715: 'GetCourseFromlist': not all control paths return a value
+D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\SrudentSearchEngine.cpp(116,7): warning C4101: D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\StudentManagementSystem\InfoSaveAndLoad.cpp(136) : warning C4715: 'GetScheduleFromlist': not all control paths return a value
+  StudentManagementSystem.vcxproj -> D:\Users\Admin\Desktop\studentsmanagersystem\StudentManagementSystem\x64\Debug\StudentManagementSystem.exe

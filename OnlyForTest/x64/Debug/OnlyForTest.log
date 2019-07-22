@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  Source.cpp
+c:\users\hephaestus\documents\visual studio 2017\projects\studentmanagementsystem\onlyfortest\source.cpp(123): warning C4553: '==': result of expression not used; did you intend '='?
+  Generating Code...
+  OnlyForTest.vcxproj -> C:\Users\Hephaestus\Documents\Visual Studio 2017\Projects\StudentManagementSystem\x64\Debug\OnlyForTest.exe

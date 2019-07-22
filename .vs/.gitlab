@@ -1,0 +1,13 @@
+{
+  "User": {
+    "Id": 2495440,
+    "Username": "bimnaxu753",
+    "Name": "Bùi Minh Nguyên",
+    "Email": "bimnaxu753@gmail.com",
+    "AvatarUrl": "https://secure.gravatar.com/avatar/048f459f072a96c7d082b4d4870cf9ef?s=80&d=identicon",
+    "PrivateToken": "4e75a052fec34d5b27dc78b78944a289da8fe2745e7abe2f701fa383cf7aa9c0",
+    "Host": "https://gitlab.com",
+    "TwoFactorEnabled": false,
+    "ApiVersion": 3
+  }
+}
